@@ -12,11 +12,3 @@ application.properties file.
 
 As to run the application, most of the dependencies are already included in the pom.xml file.
 
-I intended to host the application on cloud using AWS services, but unfortunately my AWS account access right now is
-not free, and am unable to provide payment verification for other platforms as of now, I hope you could consider the
-application as a local host application. Running locally on your machine should not be a problem, if the java runtime
-is configured properly.
-
-I hope This satisfies the requirements of the project. I am looking forward to your feedback and suggestions.
-
-Thank you for your time and consideration.
